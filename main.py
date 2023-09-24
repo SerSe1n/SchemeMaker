@@ -1,3 +1,6 @@
+def parse_cpp_file():
+    pass
+
 def main():
     pass
 
